@@ -44,7 +44,7 @@ sequenceDiagram
 ## 2. Hardware Configuration
 
 ### 2.1 Raspberry Pi Pinout
-![image](./Images/Pi_Configuaration.png)
+![image](./Images/Pi_Configuration.png)
 
 ```
 LED Connections:
