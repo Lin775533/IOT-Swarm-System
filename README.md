@@ -106,7 +106,7 @@ Network Settings:
 ## 4.Part 1 - Raspberry Pi WiFi setup and packet delivery
 
 ### 4.1 System Flowchart
-![未命名绘图 (2)](https://hackmd.io/_uploads/Byu7WmwWyx.jpg)
+![Pi Flowchart](./Images/Pi_Flowchart.png)
 
 
 ### 4.2 State Descriptions
@@ -237,7 +237,7 @@ Explanation:
 
 
 ### 5.1 System Flow Chart
-![Image (1)]./Images/ESP8255_Flowchart
+![ESP8266 Flowchart](./Images/ESP8255_Flowchart.jpg)
 
 
 ### 5.2 State Descriptions
