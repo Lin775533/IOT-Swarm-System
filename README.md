@@ -237,7 +237,7 @@ Explanation:
 
 
 ### 5.1 System Flow Chart
-![Image (1)](./Images/ESP8255_Flowchart)
+![Image (1)]./Images/ESP8255_Flowchart
 
 
 ### 5.2 State Descriptions
