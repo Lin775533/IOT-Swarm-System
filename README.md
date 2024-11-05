@@ -44,7 +44,7 @@ sequenceDiagram
 ## 2. Hardware Configuration
 
 ### 2.1 Raspberry Pi Pinout
-![image](https://hackmd.io/_uploads/HJPpR-w-1e.png)
+![image](./Images/Pi_Configuaration.png)
 
 ```
 LED Connections:
@@ -60,7 +60,7 @@ LED Connections:
 ```
 
 ### 2.2 ESP8266 Setup
-![image](https://hackmd.io/_uploads/S1ICR-DWke.png)
+![image](./Images/ESP8266_Configuration.png)
 
 ```
 Sensor Circuit:
@@ -106,7 +106,7 @@ Network Settings:
 ## 4.Part 1 - Raspberry Pi WiFi setup and packet delivery
 
 ### 4.1 System Flowchart
-![Pi Flowchart](./Images/Pi_Flowchart.png)
+![Pi Flowchart](./Images/Pi_Flowchart.jpg)
 
 
 ### 4.2 State Descriptions
@@ -237,7 +237,7 @@ Explanation:
 
 
 ### 5.1 System Flow Chart
-![ESP8266 Flowchart](./Images/ESP8255_Flowchart.png)
+![ESP8266 Flowchart](./Images/ESP8266_Flowchart.jpg)
 
 
 ### 5.2 State Descriptions
