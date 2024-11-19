@@ -2,8 +2,8 @@
 #include <WiFiUdp.h>
 
 // WiFi settings
-const char* ssid = "Jimmy&Tim";
-const char* password = "1234567890";
+const char* ssid = "YOUR_WIFI";
+const char* password = "YOUR_PASSWORD";
 
 // Network settings
 WiFiUDP udp;
