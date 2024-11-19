@@ -2,7 +2,7 @@
 
 # IoT Light Swarm System Documentation
 
----
+
 
 ## 1. System Overview
 ```mermaid
